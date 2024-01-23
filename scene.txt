@@ -1,0 +1,20 @@
+eye 0 5 0
+viewdir 0 0 1
+updir 0 1 0
+hfov 45
+imsize 1080 1080
+bkgcolor 0.5 0.7 0.9 1
+light 0 -1 0 0 1 1 1
+mtlcolor 1 1 1 1 1 1 0.2 0.4 0.6 60 0.2 1.5
+sphere 2 5 20 1
+texture textures/space!.ppm
+
+
+
+
+v -10 -10 50
+v -15 10 50
+v 10 10 50
+v 10 -10 50
+f 2 3 1
+f 3 2 4
